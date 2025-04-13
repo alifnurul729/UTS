@@ -3,14 +3,14 @@
 "name": "Koordinat",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "Lokasi": "Samigaluh", "Bujur": 110.18, "Lintang": -7.703, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/iqD4YvK1KCNGc2r/download" }, "geometry": { "type": "Point", "coordinates": [ 110.18, -7.703 ] } },
-{ "type": "Feature", "properties": { "Lokasi": "Samigaluh", "Bujur": 110.180002, "Lintang": -7.702975, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/7FfL0xrm5S46ume/download" }, "geometry": { "type": "Point", "coordinates": [ 110.180002, -7.702975 ] } },
-{ "type": "Feature", "properties": { "Lokasi": "Samigaluh", "Bujur": 110.179944, "Lintang": -7.702847, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/f02QMx6EOTEdAS5/download" }, "geometry": { "type": "Point", "coordinates": [ 110.179944, -7.702847 ] } },
-{ "type": "Feature", "properties": { "Lokasi": "Pasar Senen", "Bujur": 106.844086, "Lintang": -6.174035, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/FGdWpT4wY2qV29C/download" }, "geometry": { "type": "Point", "coordinates": [ 106.844086, -6.174035 ] } },
-{ "type": "Feature", "properties": { "Lokasi": "Pasar Senen", "Bujur": 106.84408, "Lintang": -6.174163, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/3k5On1ppPRRv2XG/download" }, "geometry": { "type": "Point", "coordinates": [ 106.84408, -6.174163 ] } },
-{ "type": "Feature", "properties": { "Lokasi": "Pasar Senen", "Bujur": 106.844, "Lintang": -6.175, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/bt0ohKGYwKPsgIZ/download" }, "geometry": { "type": "Point", "coordinates": [ 106.844, -6.175 ] } },
-{ "type": "Feature", "properties": { "Lokasi": "Cikarang", "Bujur": 107.187889, "Lintang": -6.360748, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/MEz5aQ8ppx63Y3H/download" }, "geometry": { "type": "Point", "coordinates": [ 107.187889, -6.360748 ] } },
-{ "type": "Feature", "properties": { "Lokasi": "Cikarang", "Bujur": 107.187848, "Lintang": -6.360712, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/4Q1a1AV5aNJtAfX/download" }, "geometry": { "type": "Point", "coordinates": [ 107.187848, -6.360712 ] } },
-{ "type": "Feature", "properties": { "Lokasi": "Cikarang", "Bujur": 107.187858, "Lintang": -6.360682, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/SzL5tqtK9AL8MVv/download" }, "geometry": { "type": "Point", "coordinates": [ 107.187858, -6.360682 ] } }
+{ "type": "Feature", "properties": { "Lokasi": " Samigaluh", "Bujur": 110.18, "Lintang": -7.703, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/iqD4YvK1KCNGc2r/download" }, "geometry": { "type": "Point", "coordinates": [ 110.18, -7.703 ] } },
+{ "type": "Feature", "properties": { "Lokasi": " Samigaluh", "Bujur": 110.180002, "Lintang": -7.702975, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/7FfL0xrm5S46ume/download" }, "geometry": { "type": "Point", "coordinates": [ 110.180002, -7.702975 ] } },
+{ "type": "Feature", "properties": { "Lokasi": " Samigaluh", "Bujur": 110.179944, "Lintang": -7.702847, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/f02QMx6EOTEdAS5/download" }, "geometry": { "type": "Point", "coordinates": [ 110.179944, -7.702847 ] } },
+{ "type": "Feature", "properties": { "Lokasi": " Pasar Senen", "Bujur": 106.844086, "Lintang": -6.174035, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/FGdWpT4wY2qV29C/download" }, "geometry": { "type": "Point", "coordinates": [ 106.844086, -6.174035 ] } },
+{ "type": "Feature", "properties": { "Lokasi": " Pasar Senen", "Bujur": 106.84408, "Lintang": -6.174163, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/3k5On1ppPRRv2XG/download" }, "geometry": { "type": "Point", "coordinates": [ 106.84408, -6.174163 ] } },
+{ "type": "Feature", "properties": { "Lokasi": " Pasar Senen", "Bujur": 106.844, "Lintang": -6.175, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/bt0ohKGYwKPsgIZ/download" }, "geometry": { "type": "Point", "coordinates": [ 106.844, -6.175 ] } },
+{ "type": "Feature", "properties": { "Lokasi": " Cikarang", "Bujur": 107.187889, "Lintang": -6.360748, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/MEz5aQ8ppx63Y3H/download" }, "geometry": { "type": "Point", "coordinates": [ 107.187889, -6.360748 ] } },
+{ "type": "Feature", "properties": { "Lokasi": " Cikarang", "Bujur": 107.187848, "Lintang": -6.360712, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/4Q1a1AV5aNJtAfX/download" }, "geometry": { "type": "Point", "coordinates": [ 107.187848, -6.360712 ] } },
+{ "type": "Feature", "properties": { "Lokasi": " Cikarang", "Bujur": 107.187858, "Lintang": -6.360682, "Foto": 3 , "link": "https://simpan.ugm.ac.id/s/SzL5tqtK9AL8MVv/download" }, "geometry": { "type": "Point", "coordinates": [ 107.187858, -6.360682 ] } }
 ]
 }
